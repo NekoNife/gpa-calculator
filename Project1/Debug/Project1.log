@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\jjh97\OneDrive\자소서 기초\프로그래밍 정리\학부-학점계산기\C\gpa-calculator\Project1\Project1\소스.cpp(8,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\jjh97\OneDrive\자소서 기초\프로그래밍 정리\학부-학점계산기\C\gpa-calculator\Project1\Project1\소스.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\jjh97\OneDrive\자소서 기초\프로그래밍 정리\학부-학점계산기\C\gpa-calculator\Project1\Project1\소스.cpp(99,92): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjh97\OneDrive\자소서 기초\프로그래밍 정리\학부-학점계산기\C\gpa-calculator\Project1\Project1\소스.cpp(46,7): warning C4101: 'fs' :참조되지 않은 지역 변수입니다.
+C:\Users\jjh97\OneDrive\자소서 기초\프로그래밍 정리\학부-학점계산기\C\gpa-calculator\Project1\Project1\소스.cpp(110,7): warning C4101: 'gg' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\jjh97\OneDrive\자소서 기초\프로그래밍 정리\학부-학점계산기\C\gpa-calculator\Project1\Debug\Project1.exe
